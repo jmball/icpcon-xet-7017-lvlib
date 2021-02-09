@@ -19,5 +19,6 @@
 		<Item Name="init.vi" Type="VI" URL="../Public/init.vi"/>
 		<Item Name="set_ai_data_format.vi" Type="VI" URL="../Public/set_ai_data_format.vi"/>
 		<Item Name="set_ai_noise_filter.vi" Type="VI" URL="../Public/set_ai_noise_filter.vi"/>
+		<Item Name="set_do.vi" Type="VI" URL="../Public/set_do.vi"/>
 	</Item>
 </Library>
