@@ -21,4 +21,6 @@
 		<Item Name="set_ai_noise_filter.vi" Type="VI" URL="../Public/set_ai_noise_filter.vi"/>
 		<Item Name="set_do.vi" Type="VI" URL="../Public/set_do.vi"/>
 	</Item>
+	<Item Name="get_id_string.vi" Type="VI" URL="../Public/get_id_string.vi"/>
+	<Item Name="reset_io_to_default.vi" Type="VI" URL="../Public/reset_io_to_default.vi"/>
 </Library>
